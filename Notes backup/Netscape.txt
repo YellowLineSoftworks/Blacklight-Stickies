@@ -1,0 +1,3 @@
+Navigator, by Netscape, the first browser that the commonplace person has heard of, was the browser
+that brought usability to the still young World Wide Web. Compared to using Mosaic, it was 
+fantastically easy to browse the web with Navigator.

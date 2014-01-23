@@ -1,0 +1,3 @@
+The Internet is currently overseen and run by the US government, specifically by the US National
+Science Foundation, which runs the servers, and the Internet Corporation for Assigned Names
+and Numbers (ICANN), which manages it.

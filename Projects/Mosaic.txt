@@ -1,0 +1,3 @@
+Mosaic was the name of the first web browser that supported pictures. Tim Berners-Lee
+opposed this browser on the grounds that the web was supposed to be for information
+exchange and that allowing pictures would turn it into a playground. He was right, of course.

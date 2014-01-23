@@ -1,0 +1,3 @@
+The Internet brought evil too. Suddenly, there was the potential for hacking, where someone
+would break into your computer and steal files. You couldn't trust your computer to store files
+on anymore, if you were going to connect to the Internet.

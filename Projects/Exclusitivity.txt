@@ -1,0 +1,3 @@
+Not everyone has access to a quick internet like us. For example, three countries in West Africa
+share just 1.2 gigabits per second of bandwith total. That's pretty bad, and probably means
+almost a day to load a website.

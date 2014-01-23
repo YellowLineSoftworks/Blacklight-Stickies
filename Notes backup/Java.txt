@@ -1,0 +1,3 @@
+Sun Microsystem's Java programming language also broadened the horizons for the web, 
+allowing users of the web to view prettier pages and, eventually, play Java games embedded
+on websites.

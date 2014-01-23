@@ -1,0 +1,3 @@
+The original browser, WorldWideWeb, had no graphics. The Web as envisioned by it's
+creator, Tim Berners-Lee, was a text based thing where you would use links to jump around
+between text documents. No pictures, no video, no search engines.

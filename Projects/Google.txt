@@ -1,0 +1,3 @@
+Google was built by Larry Page and Sergey Brin not long after the development of Yahoo!. 
+It used advanced algorithms to rank page relevancy, which gave much more relevant results 
+than Yahoo! and it's preceding competitors.

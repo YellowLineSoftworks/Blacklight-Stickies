@@ -1,0 +1,2 @@
+The first browser, which began development in 1990, was called WorldWideWeb and had
+no URL bar, just the ability to jump to links

@@ -1,0 +1,3 @@
+The Internet is a collection of linked computers around the world that is used by applications
+like Skype to transfer data between two linked computers, and by games like Minecraft
+to allow two users to play on the same game.

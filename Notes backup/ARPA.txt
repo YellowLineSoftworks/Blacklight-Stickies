@@ -1,0 +1,16 @@
+ARPA is the thing that always comes to mind when you think of the beginning of the Internet, 
+because they created it.
+
+
+"In the Beginning, ARPA created the ARPANET.
+
+And the ARPANET was without form and void.
+
+And darkness was upon the deep.
+
+And the spirit of ARPA moved upon the face of the network and ARPA said, 
+'Let there be a protocol,' and there was a protocol. And ARPA saw that it was good.
+
+And ARPA said, 'Let there be more protocols,' and it was so. And ARPA saw that it was good.
+
+And ARPA said, 'Let there be more networks,' and it was so." 

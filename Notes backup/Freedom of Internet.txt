@@ -1,0 +1,2 @@
+In 1993, CERN decided to allow anyone to use Web protocols and code for free. 
+This is brilliant, because if they hadn't we could have to pay a fortune for internet.

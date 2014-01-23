@@ -1,0 +1,2 @@
+A node is a link in a network, so every computer is a node. It's kinda like
+a thing that you can use to connect to the Internet.
